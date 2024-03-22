@@ -1,0 +1,734 @@
+[33mcommit 92cee47aa89b0486a7a6d803c0138165f0bf0664[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-5-20.ap-south-1.compute.internal>
+Date:   Fri Mar 22 17:16:59 2024 +0000
+
+    my-commit
+
+[33mcommit 13ba50a542018ccb32c68a1339fc815486944421[m
+Author: Terrence <tpryan@google.com>
+Date:   Wed Mar 1 22:06:48 2023 -0800
+
+    fix: rename script to new names
+
+[33mcommit 5f74cc194570db7087afb9f0534090f94ffc6347[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Dec 14 16:05:37 2022 -0800
+
+    chore: add name to config so it ends up in metrics
+
+[33mcommit 829bee406e2ca4736c5ba0188b90983129d75598[m
+Merge: bee312f 0b604d7
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Dec 2 16:00:17 2022 -0800
+
+    Merge pull request #4 from GoogleCloudPlatform/update-solution
+    
+    chore: Update solution with script that waits for solution to work
+
+[33mcommit 0b604d7d809800f5d8fca18bf0decfb5b7b2d66e[m[33m ([m[1;31morigin/update-solution[m[33m)[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Dec 2 15:59:37 2022 -0800
+
+    chore: making app work with directory structure
+
+[33mcommit 18854c4272c3cf420203d990b4b4875268e5f046[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 29 15:06:12 2022 -0800
+
+    chore: move items around in the directory structure
+
+[33mcommit bee312f73f805a3bbadab1dc8adf82370ac1845f[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 21 13:52:32 2022 -0800
+
+    fix: set timeout higher
+
+[33mcommit 8ccff0650ac6612f724b04d5b8a3069f34789533[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 21 09:27:43 2022 -0800
+
+    fix: updating to new structure
+
+[33mcommit 3d1c921c263c9abfac063f73831f0a2651a219d7[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Sep 15 14:13:11 2022 -0700
+
+    feat: adding documentation link.
+
+[33mcommit f26bc04d7ab3a3f623df625caead1b2924971817[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Aug 31 11:56:37 2022 -0700
+
+    fix: making tests work correctly
+
+[33mcommit e9b972f1782bfc12563cfec468ad00a8e10432aa[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Aug 31 08:37:43 2022 -0700
+
+    fix: getting this test to properly run.
+
+[33mcommit 73323fa8019db43b01399f48873bd3088cbb7002[m
+Merge: 4f3f134 5d378d0
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Aug 31 07:38:38 2022 -0700
+
+    Merge pull request #3 from GoogleCloudPlatform/tpryan_rename_fix
+    
+    fix: updated fe massage
+
+[33mcommit 5d378d0edf5f0d99b0067f5d170ccda87e53b0de[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Aug 31 00:56:59 2022 -0700
+
+    fix: updated fe massage
+
+[33mcommit 4f3f134cba1d1b91515f37e9a8234c5151817d86[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Aug 25 12:19:31 2022 -0700
+
+    chore: forcing test to run
+
+[33mcommit 420b52d787d4f54671be7dc47a1e147e670f52b4[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Aug 25 12:15:12 2022 -0700
+
+    chore: update formatting
+
+[33mcommit baf1fe6e7701eb086902dec3fa5a0420736e05a2[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Aug 25 12:14:46 2022 -0700
+
+    fix: getting repo to pass tests
+
+[33mcommit c120aee0b1402d6bfa15753ec7e6fe46563674a8[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Aug 24 23:17:11 2022 -0700
+
+    fix: troubleshooting issues with app running
+
+[33mcommit cfe4f015e3cb4940a6e7c1a0f4e049f933a184c2[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Aug 24 23:16:11 2022 -0700
+
+    chore: editing name in a few places to reflect new naming scheme
+
+[33mcommit 268e94fd8b462952410bb21954434c16f847356b[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Aug 15 16:47:43 2022 -0700
+
+    fix: updating to use new cloud shell image
+
+[33mcommit 0fca7cb8357b663f3fe8d59e9929686e3aa0a7af[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Jun 15 22:10:11 2022 -0700
+
+    trying to make a network so that tests regularly pass.
+
+[33mcommit 368b59c7e30c49189d23c88a15ab39013da0f956[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Jun 15 15:54:46 2022 -0700
+
+    Trying to get tests to consistently work.
+
+[33mcommit 750b948d1bbba65990b39b8360527949255db2b2[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Jun 15 14:03:44 2022 -0700
+
+    trying to make this thing work.
+
+[33mcommit e0e0e5aea5be1df13f3ef45d270ab04911fa97c6[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Jun 14 13:34:56 2022 -0700
+
+    Trying to get tests to pass
+
+[33mcommit 767e6cb1238c75afaa7a85fd59289cd84285236d[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Jun 10 16:54:08 2022 -0700
+
+    Changing default test zone.
+
+[33mcommit 15206d08aa13dbb3fd3de9cb58e11e0a2bba7f10[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Jun 10 16:08:37 2022 -0700
+
+    Whoa, how long was this broken?
+
+[33mcommit a04ff6144022f893b9d746e64d9b277743be7669[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Jun 10 16:05:59 2022 -0700
+
+    Polishing install file.
+
+[33mcommit 8e078f2d87abfd9342c52450e64aa600b1e359c6[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Jun 1 12:14:22 2022 -0700
+
+    Fixing issue with projectid not being passed to this command.
+
+[33mcommit e8af37b2af9f3a3d86321678f30449143acb2b42[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu May 19 12:24:13 2022 -0700
+
+    Updating error handling in the deploystack script
+
+[33mcommit 7c695dac20bbf963b6ee8b57b241264b173af9ca[m
+Merge: 907cc52 a254776
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue May 10 15:40:42 2022 -0700
+
+    Merge pull request #2 from GoogleCloudPlatform/terraform
+    
+    Terraform
+
+[33mcommit a254776517da990e6eb8acf08e168ee6905b1044[m[33m ([m[1;31morigin/terraform[m[33m)[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue May 10 14:51:31 2022 -0700
+
+    Adding instructions file.
+
+[33mcommit c4e91b68bc0f222e8f4bb2fe15b56ab241b45b4b[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue May 10 14:49:13 2022 -0700
+
+    Getting full install to work
+
+[33mcommit 96033555f88bcccf2d34b8caa3af49921813b26d[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue May 10 11:07:29 2022 -0700
+
+    All tests passing, I think.
+
+[33mcommit e8421414fa9a539d7ab4d5cd68b6ad811ac45dc5[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon May 9 17:32:02 2022 -0700
+
+    Testing new test procedure
+
+[33mcommit aeb7b92a8a76f12fe2dea29bbafcc2a95f334762[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon May 9 16:36:54 2022 -0700
+
+    Initial change to terraform version
+
+[33mcommit 828ba23289fdc507cff8463bae0575a34c15a491[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon May 9 16:25:19 2022 -0700
+
+    Clearing out unnecessary files
+
+[33mcommit 907cc52ad6058cd018cdc69d1f3345449b79aabb[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Apr 22 11:21:20 2022 -0700
+
+    This is causing an issue so making it wait.
+
+[33mcommit 5a9446e914c4be483038916ee3fd5c4c3f02dcdc[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Mar 29 08:12:26 2022 -0700
+
+    Fixing errors in testing rig.
+
+[33mcommit 029950c52586a2afc0def33b092dd4f6238558a6[m
+Merge: ea09419 72eadab
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Mar 29 07:58:27 2022 -0700
+
+    Merge branch 'main' of https://github.com/GoogleCloudPlatform/deploystack_todo
+
+[33mcommit ea09419f5f2d483c444816639f6dc89f2edd7867[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Mar 29 07:58:23 2022 -0700
+
+    trying to make troubleshooting easier.
+
+[33mcommit ca81d3a99620568471b2878aafd2792e1c6f99c4[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Mar 29 07:58:12 2022 -0700
+
+    Removing error from export script/
+
+[33mcommit 72eadaba2b901cd230dea9d5a1a432e540562e16[m
+Merge: 3bf75d4 c78bfa3
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Feb 17 10:53:24 2022 -0800
+
+    Merge pull request #1 from code128/patch-1
+    
+    Update README.md
+
+[33mcommit c78bfa31c87fc5c3734fca75a7a0f323517625e5[m
+Author: Joshua Bloom <code128@users.noreply.github.com>
+Date:   Thu Feb 17 10:51:37 2022 -0800
+
+    Update README.md
+    
+    Spelling fix.
+
+[33mcommit 3bf75d47d4cb819e91990e51b5ca9b9cd2f1eb9f[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Feb 11 19:51:08 2022 -0800
+
+    Migrating to deploystack
+
+[33mcommit c52130c127f09ebcf95a3899e2af67e58cb115c3[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Feb 10 14:15:42 2022 -0800
+
+    syncing change in globals to all apps
+
+[33mcommit cfeeb88232eded64c4df13db4d5fcb98e60514d9[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Jan 20 14:17:12 2022 -0800
+
+    Fixing some stuff.
+
+[33mcommit 368d3f3a105ac1ec7d2cad126f917ff9eed4e1b8[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Jan 18 14:10:01 2022 -0800
+
+    syncing change in globals to all apps
+
+[33mcommit 108fbd9551cf5c0e677fe5ae41c21bd30f9df90d[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sat Jan 8 20:17:41 2022 -0800
+
+    "syncing change in globals to all apps"
+
+[33mcommit 27d50a847ea5bfea16958fca145922f7b5fbb998[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Dec 30 10:19:13 2021 -0800
+
+    Made OICS shell only.
+
+[33mcommit 93a0fd73ffec3c9deee3b5593f9cf8c2ed04830c[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Dec 30 10:18:58 2021 -0800
+
+    Updating the OICS text to print - made it color.
+
+[33mcommit c15171ec763f879fb186f26e2eb5f6653e68cedb[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Dec 23 20:13:22 2021 -0800
+
+    updating divider code.
+
+[33mcommit d7e88a326fdf709c67c2bbf31e2a046d03f9b5a2[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Dec 8 12:10:54 2021 -0800
+
+    Updating OICS link
+
+[33mcommit 8416b2e367812354ff30f8aa238a30c097e512ae[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Dec 8 12:09:51 2021 -0800
+
+    Updating OICS link
+
+[33mcommit 5d5f3ecfab5c9ebb6829aa9f2df1d49c4c3aaf91[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Dec 6 17:02:11 2021 -0800
+
+    Getting testing working properly.
+
+[33mcommit 9640e9feaf79b3d487b501045a777b0a521776ad[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Dec 6 17:01:49 2021 -0800
+
+    Integrating code from globals better
+
+[33mcommit b5572be18d9f29f1de47e82bf56ec14b282e2c09[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Dec 3 16:46:31 2021 -0800
+
+    Cleaned up a few things to make it more reliable.
+
+[33mcommit 7828e9a23c9b0e1bf54e05e770db7e3705f676a3[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Dec 3 15:46:43 2021 -0800
+
+    Adding wait for Redis to be up.
+
+[33mcommit af0e51318a47398018fbd7b0bbdf62349630328c[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Dec 3 14:58:08 2021 -0800
+
+    Changing order to speed up
+
+[33mcommit c37ea132ae127a0d283d9b32b3d24989372c7671[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Dec 3 14:57:46 2021 -0800
+
+    Making sure the right things are deleted and making words better.
+
+[33mcommit 09ff96f431d5525aa03578475c0512957f3fbf2c[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Dec 2 17:16:21 2021 -0800
+
+    Cleaning up the scripts to use the consistent ui.
+
+[33mcommit 8ec2e2ec1f5cf6720db3f6f52f98e0dd1582a0fb[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 29 14:12:36 2021 -0800
+
+    cleaning some stuff up.
+
+[33mcommit 8c4aea35170469aad687d67070c76c34118a3932[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 29 14:09:21 2021 -0800
+
+    Wrong file name for this.
+
+[33mcommit beb6574b8340e28e6a8dcec5dbaa36310714b17c[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 29 14:08:20 2021 -0800
+
+    Trying to force syntax highlighting.
+
+[33mcommit 66f87b3ca76ced1a4a775e7c330fa41c7df6d2f1[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Nov 24 12:33:51 2021 -0800
+
+    Fixing open in cloudshell link.
+
+[33mcommit 6270482afd10ebda6ff08ed4fc9e9ed145ec8161[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Nov 24 10:55:23 2021 -0800
+
+    Swapped in ARtifact Registry
+
+[33mcommit b6947ec2107cd3bbcf7d4ac35e189cdbece843d1[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Nov 24 10:55:12 2021 -0800
+
+    Trying to get image to show up in Cloud  Shell Editor
+
+[33mcommit 2caab833f07284e6a52bd611cfce68639bd32955[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Nov 19 14:22:14 2021 -0800
+
+    Update README.md
+
+[33mcommit 4476ae6da7c71e8129f69c1f8ee6c88a63f8ca84[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 15 10:45:58 2021 -0800
+
+    Fixing link to open in Cloud Shell
+
+[33mcommit 25a94bddbc609e127b1765713805b7af7ca0c690[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 15 10:41:42 2021 -0800
+
+    Fixing typo.
+
+[33mcommit dc39700e8cc4ea2cf17a21b174d29331fa07655f[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 15 10:31:22 2021 -0800
+
+    Adding licensing
+
+[33mcommit c6420cc086a925217f8f5fb7cbe2878db1c15019[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Nov 10 16:13:45 2021 -0800
+
+    Starting prep to release.
+
+[33mcommit 42a0d6b2a0489d5114b7b0d3ee40f8bfa5b23027[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Nov 10 15:58:39 2021 -0800
+
+    tweaking the order of service enablement
+
+[33mcommit bbd9ec1c2eb1b9804fd00c684e206d613210e44a[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 9 12:26:41 2021 -0800
+
+    Tweaking install script
+
+[33mcommit b85119b3496d35c683ccf7461cf42932f1f40a77[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 8 15:54:22 2021 -0800
+
+    Polish
+
+[33mcommit 34669a39e51c4a795224903ace22748092cb3fbf[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 8 14:20:05 2021 -0800
+
+    Cleaning install file
+
+[33mcommit be1ebb74927c56e6ebe5b989220b49563db82e30[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 8 14:06:00 2021 -0800
+
+    Tweaking the scripts to allow for different sql server names.
+
+[33mcommit d12c154b216be4d5f0009ff40240072b40f4854c[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Nov 4 10:35:51 2021 -0700
+
+    Making things a little cleaner and easier to read.
+
+[33mcommit 501c7aec9d1d5d3fbfed8551d4ac9ef492f15e01[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Nov 4 10:35:32 2021 -0700
+
+    Making a cleanup script.
+
+[33mcommit a3a7921a3f2b99ff3b516911d672cfd8de633435[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 2 11:33:47 2021 -0700
+
+    fixing another bug
+
+[33mcommit a8792e6b140c23351e63940f43d11858293c778b[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 2 11:07:13 2021 -0700
+
+    Fixing bug
+
+[33mcommit f68e52d88baee2ab551d42a5cd6b1e47d199ac28[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 2 10:32:14 2021 -0700
+
+    C'mon, please work.
+
+[33mcommit fecd5edc3f8c99253d825e46e2e2c3d54124ee5a[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 2 10:29:34 2021 -0700
+
+    Display issues
+
+[33mcommit 826949d57987c8eb253effebe4ea8ef71b9aa2ea[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 2 10:23:33 2021 -0700
+
+    Improve script
+
+[33mcommit 7205cfa29292bc5e609f49bfee6db040935fdc37[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Tue Nov 2 10:23:18 2021 -0700
+
+    remove region hardcoding from frontend massager
+
+[33mcommit 616bd51c10979674db35feb43f6b0d767730d21f[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 1 16:21:37 2021 -0700
+
+    Trying to hold hands better during install process.
+
+[33mcommit 2d6d1adc56f9c8bb593ba0731e769fabd31957fb[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 1 14:41:44 2021 -0700
+
+    Tweaking this stuff to work with the handoff better
+
+[33mcommit 82bed6f4144fd40d9afa76a40a8cd5bb4845e834[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 1 11:58:21 2021 -0700
+
+    Tweaking help message.
+
+[33mcommit aec8bcf68ba618accf052edf2f3f419aab257925[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 1 11:51:56 2021 -0700
+
+    Checking in instructions for installation.
+
+[33mcommit 8036f580a400a3d9274be0e0fe6cfb06c2a58cd9[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 1 11:24:00 2021 -0700
+
+    Making install secrets work better.
+
+[33mcommit 933469830ace35dd974f7320944cf89fe9f99354[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Mon Nov 1 10:07:26 2021 -0700
+
+    trying to fix issue with app not installing properly.
+
+[33mcommit 1830138f359f5e37dd5df32d94168a955890c101[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sun Oct 31 23:35:13 2021 -0700
+
+    moving bad command
+
+[33mcommit 6bb453971ff7868376e092cb19c133bb10c7cba3[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sun Oct 31 14:44:00 2021 -0700
+
+    Update README.md
+
+[33mcommit bb3484bcfe6499e6e48a750fad21055a00c94267[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sat Oct 30 23:27:10 2021 -0700
+
+    Collecting todos/
+
+[33mcommit 1bba59c243c6c2f0a0cd2b896a83fe618b63531a[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sat Oct 30 23:26:55 2021 -0700
+
+    Making an install script.
+
+[33mcommit a3cf0cd8c62e899143b710d174b6a0ab8d55f18c[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sat Oct 30 23:26:43 2021 -0700
+
+    Schema because sometimes the database fails.
+
+[33mcommit bf8b1233c39686da2d5c2832ed3577deb406fd82[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sat Oct 30 23:25:31 2021 -0700
+
+    Removing make file, going script.
+
+[33mcommit 22bc5c1ea15987b0e97c07cb40b046c666645774[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Sat Oct 30 23:24:44 2021 -0700
+
+    Fixing bugs that prevents this from being used on any project
+
+[33mcommit c9ba22b9f2994e29152bf72600e42279da4c5269[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Oct 29 17:19:46 2021 -0700
+
+    Make to deploy the code.
+
+[33mcommit c55757bc04c3531050799d303287a26280857d70[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Oct 29 17:19:29 2021 -0700
+
+    Getting infrastructure to work.
+
+[33mcommit ada370a6e598d15158c54afe21bd200ff3c0badb[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Oct 29 17:18:31 2021 -0700
+
+    getting schema file to run on Cloud SQL
+
+[33mcommit be471204cb1ce68d3dee07a0d8f638e000ba38d8[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Oct 29 17:18:09 2021 -0700
+
+    Created a build process to pushes to prod correctly.
+
+[33mcommit 9e7a6cc687170f98d1abee1f72087cd320d58e52[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Oct 29 17:17:23 2021 -0700
+
+    Creating a file and a process to point frontend to dynamic url of middleware service.
+
+[33mcommit 98501e5859a49d0ef1c0d671d9e431f0b08f05a0[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Fri Oct 29 17:16:43 2021 -0700
+
+    Adding favicon.
+
+[33mcommit 6168529474ca7ae9bed7c5b240485e506a372efd[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 15:36:10 2021 -0700
+
+    Moving stuff around
+
+[33mcommit 3605a28a48a66e13a5e3a74c81ddfdc253d101f2[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 15:31:07 2021 -0700
+
+    made redis part of the mix.
+
+[33mcommit 459477d63a03fdf1a8c6291de90f7742d0fa5609[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 15:30:52 2021 -0700
+
+    Cleared out some debugging
+
+[33mcommit e777e9d5b31fd8772fea546f86a5fb95d65c2936[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 15:30:40 2021 -0700
+
+    Added a caching layer to application.
+
+[33mcommit 6428b048c80f0669a6680b70576cfaf6b6fd6425[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 12:59:58 2021 -0700
+
+    Got creation working in the ui.
+
+[33mcommit 03c8c62b7f946219753259e350ff283bf82069d5[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 12:59:39 2021 -0700
+
+    Fixed bug where I wasn't actually sending the right status.
+
+[33mcommit 557b78418fd711f0b34f2b928435843d1dc1cf3d[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 12:59:19 2021 -0700
+
+    Caught a bug in creation in the db
+
+[33mcommit ee44111e6587906247dea8fba581b1b4af1ab8ae[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Thu Oct 28 10:57:01 2021 -0700
+
+    Getting Delete working was a pain.
+
+[33mcommit 88cb30630aaeea990a25d6aee0f627fde360e00a[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 17:34:37 2021 -0700
+
+    Getting frontend editing behavior working.
+
+[33mcommit 16a55740db4569862b505532bd8727ffdccab613[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 17:34:09 2021 -0700
+
+    Styling content
+
+[33mcommit fa9f733fcf8893923d7e2b01745110f9a398086f[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 17:33:51 2021 -0700
+
+    Making update complete behavior correct.
+
+[33mcommit 7ab8cee2c2ef668e19eca9251f2b800c268825f1[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 16:49:28 2021 -0700
+
+    Removing description to simplify things.
+
+[33mcommit 9a828723ef4aad4c4ebae0bbc04bbaf609b84e5f[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 16:47:03 2021 -0700
+
+    getting frontend to be dynamically editable.
+
+[33mcommit a57e19441fa10af5913565d1501371b5fd649b42[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 16:46:39 2021 -0700
+
+    Tweaking frontend to display things.
+
+[33mcommit 2ee1a0079002dc831b07fb78a32efd9f48da6734[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 15:51:42 2021 -0700
+
+    Create frontend
+
+[33mcommit b94661cde4f341ec647c16b9dfd00f7f6b8318c8[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 15:51:34 2021 -0700
+
+    Create middleware tier
+
+[33mcommit 29e4ff4dd58da2888fd17dc7afa995efb46523a5[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 15:51:14 2021 -0700
+
+    Create database setup
+
+[33mcommit 98845d9f1c52969a215796fa6844941879afc246[m
+Author: Terrence Ryan <tpryan@google.com>
+Date:   Wed Oct 27 15:50:59 2021 -0700
+
+    Create initial project settings
